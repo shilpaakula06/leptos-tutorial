@@ -1,0 +1,12 @@
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\libhalf-8fce4311c07bc038.rmeta: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\libhalf-8fce4311c07bc038.rlib: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\half-8fce4311c07bc038.d: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs
+
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\lib.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\bfloat\convert.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\binary16\convert.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-1.8.2\src\slice.rs:

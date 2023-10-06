@@ -1,0 +1,11 @@
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\libciborium_ll-eb1e073dbab24894.rmeta: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\dec.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\enc.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\hdr.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\seg.rs
+
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\libciborium_ll-eb1e073dbab24894.rlib: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\dec.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\enc.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\hdr.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\seg.rs
+
+C:\Users\HI\leptos-tutorial\target\wasm32-unknown-unknown\debug\deps\ciborium_ll-eb1e073dbab24894.d: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\dec.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\enc.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\hdr.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\seg.rs
+
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\lib.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\dec.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\enc.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\hdr.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.1\src\seg.rs:
